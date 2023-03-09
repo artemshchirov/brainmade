@@ -1,7 +1,14 @@
+import { Button, HTag, Text } from '../components';
+
 export default function Home(): JSX.Element {
 	return (
 		<div>
-			<h1>Hello World!</h1>
+			<HTag tag='h1'> h1 Title</HTag>
+			<Button appearance='primary' arrow='down'>
+				Button
+			</Button>
+			<Button appearance='ghost'>Button</Button>
+			<Text> TEXT </Text>
 		</div>
 	);
 }

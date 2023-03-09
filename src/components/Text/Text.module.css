@@ -1,0 +1,25 @@
+.p {
+	margin: 0;
+
+	font-family: var(--font-body-text);
+}
+
+.sm {
+	font-size: 16px;
+	line-height: 0.76;
+}
+
+.md {
+	font-size: 18px;
+	line-height: 0.75;
+}
+
+.lg {
+	font-size: 24px;
+	line-height: 0.96;
+}
+
+.xl {
+	font-size: 36px;
+	line-height: 1;
+}

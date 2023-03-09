@@ -4,9 +4,12 @@
 	--font-body-text: 'Segoe UI', tahoma, geneva, verdana, sans-serif;
 	--background: #000;
 	--primary: #9747ff;
+	--primary-hover: #6344df;
 	--secondary: #3728cb;
 	--text: #fff;
+	--text-ghost: #8c8c8c;
 	--hot: #ff7262;
+	--border-ghost: #616161;
 }
 
 * {
