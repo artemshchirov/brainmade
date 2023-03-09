@@ -12,3 +12,7 @@
 - TypeScript
 - ESLint
 - Stylelint
+
+## TODO
+
+[ ] - MB Grotesk font
