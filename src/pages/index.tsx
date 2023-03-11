@@ -1,6 +1,7 @@
 import { Button, HTag, Text } from '../components';
+import { withLayout } from '../layout/Layout';
 
-export default function Home(): JSX.Element {
+function Home(): JSX.Element {
 	return (
 		<div>
 			<HTag tag='h1'> h1 Title</HTag>
@@ -12,3 +13,5 @@ export default function Home(): JSX.Element {
 		</div>
 	);
 }
+
+export default withLayout(Home);

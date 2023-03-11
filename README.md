@@ -15,4 +15,19 @@
 
 ## TODO
 
-[ ] - MB Grotesk font
+- [x] Environment settings
+- [x] TypeScript
+- [x] Layout
+- [ ] CSS Grid
+- [ ] Server Side Rendering
+- [ ] Accessibility
+- [ ] SEO optimization
+- [ ] Deploy
+
+## Run project locally
+
+```bash
+yarn install
+yarn build
+yarn start
+```

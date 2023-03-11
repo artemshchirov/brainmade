@@ -1,5 +1,7 @@
 {
 	"name": "brainmade",
+	"description": "Web studio landing page",
+	"author": "Artem Shchirov",
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
